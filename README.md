@@ -1,6 +1,6 @@
 # Hi there, I'm Shivang! 👋
 
-I am a **First Year B.Tech student** at VIT Bhopal University.
+I am a **B.Tech student** at VIT Bhopal University.
 
 * **Branch:** Computer Science and Engineering (AI & ML)
 * **Current Focus:** I am focusing on building my foundational digital literacy and expanding my programming skills.
