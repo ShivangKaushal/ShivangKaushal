@@ -53,6 +53,15 @@
 
 ---
 
+### 🎮 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShivangKaushal&theme=radium&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -63,10 +72,17 @@
 <br>
 
 <div align="center">
-  <h3>🧱 My 3D Contribution Graph</h3>
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Animated 3D Blocks" width="100%" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Animated 3D Contributions" width="100%" />
 </div>
 
+---
+
+### 💡 Daily Tech Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radium" alt="Daily Quote" />
+</div>
+
+---
 
 ### 📫 Let's Connect!
 
