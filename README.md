@@ -1,9 +1,69 @@
-# Hi there, I'm Shivang! 👋
+<div align="center">
+  <h1>Hi there, I'm Shivang! 👋</h1>
+  <h3>B.Tech Student | AI & ML Enthusiast | Developer</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Architecting+Cybersecurity+Engines;Building+AI+%26+ML+Solutions;Full-Stack+Web+Development;Solving+Complex+Problems" alt="Typing SVG" />
+</div>
 
-I am a **B.Tech student** at VIT Bhopal University.
+---
 
-* **Branch:** Computer Science and Engineering (AI & ML)
-* **Current Focus:** Architecting a multi-layered, hyper-local cybersecurity engine using Python, FastAPI, and Machine Learning to neutralize localized phishing threats.
-* **Learning Goal:** Over the next year, I hope to deepen my understanding of Python and explore practical applications in Artificial Intelligence, as well as learn how to collaborate on open-source projects.
+### 🚀 About Me
+- 🎓 I'm currently studying **Computer Science and Engineering (AI & ML)** at **VIT Bhopal University**.
+- 🔭 **Current Focus:** Architecting a multi-layered, hyper-local cybersecurity engine to neutralize localized phishing threats.
+- 🌱 **Currently Learning/Exploring:** Deepening my understanding of Python, exploring practical applications in AI, and mastering core Java, C, and OpenCV.
+- 🎯 **Goals:** Actively looking to collaborate on impactful open-source projects and build real-world AI solutions.
 
-Feel free to check out my repositories!
+---
+
+### 💻 Tech Stack & Tools
+
+**Languages**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prolog-F3E480?style=for-the-badge&logo=prolog&logoColor=black" />
+</p>
+
+**AI/ML & Computer Vision**
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+**Web Development & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Abhedya** | AI-driven web security browser extension engine for hyper-local phishing detection. | `Python`, `FastAPI`, `ML` |
+| **Eureka** | Designed and developed the backend architecture and database structure for the Eureka website platform. | `Backend`, `Database Design` |
+| **Iksha** | Real-time smart attendance logging system built for academic case studies at VIT. | `Python`, `OpenCV`, `face_recognition` |
+| **Crop Image Analytics** | AI-based real-time crop image analytics for PMFBY crop insurance assessment (Smart VIT Hackathon). | `AI/ML`, `Python` |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivangKaushal&show_icons=true&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivangKaushal&theme=radium&hide_border=true" width="48%" />
+</div>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/shivang-kaushal-3967a7380"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shivang.25bai10965@vitbhopal.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
