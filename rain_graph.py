@@ -26,14 +26,16 @@ css_animation = """
 
 # 3. Inject random animation delays so the blocks fall at different times
 def inject_delay(match):
-    delay = round(random.uniform(0.1, 2.5), 2)
-    return f'{match.group(0)} style="animation-delay: {delay}s;"'
+    delay = round(random.uniform(0.0, 2.5), 2)
+    original_rect = match.group(0)
+    # Safely insert the style attribute into the rect tag
+    return original_rect.replace('<rect ', f'<rect style="animation-delay: {delay}s;" ')
 
 # Find all SVG rectangles (the contribution blocks) and add the delay
 animated_svg = re.sub(r'<rect[^>]*>', inject_delay, svg_data)
 
-# Insert the CSS into the SVG
-animated_svg = animated_svg.replace('<svg ', f'<svg {css_animation} ')
+# Safely insert the CSS inside the SVG body (right before it closes)
+animated_svg = animated_svg.replace('</svg>', f'{css_animation}</svg>')
 
 # 4. Save the new animated file
 with open('raining-blocks.svg', 'w') as file:
