@@ -63,8 +63,8 @@
 <br>
 
 <div align="center">
-  <h3>🌧️ My Contribution Graph</h3>
-  <img src="./raining-blocks.svg" alt="Raining Contribution Blocks" width="100%" />
+  <h3>🧱 My 3D Contribution Graph</h3>
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Animated 3D Blocks" width="100%" />
 </div>
 
 
