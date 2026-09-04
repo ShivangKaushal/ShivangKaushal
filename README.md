@@ -56,7 +56,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivangKaushal&show_icons=true&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivangKaushal&show_icons=true&theme=radium&hide_border=true&v=1" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivangKaushal&theme=radium&hide_border=true" width="48%" />
 </div>
 
