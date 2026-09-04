@@ -14,29 +14,30 @@
 
 ---
 
+### 🏆 Achievements
+- 🥋 **National Karate Champion 2023**
+
+---
+
 ### 💻 Tech Stack & Tools
 
 **Languages**  
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Prolog-F3E480?style=for-the-badge&logo=prolog&logoColor=black" />
-</p>
-
-**AI/ML & Computer Vision**
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
 **Web Development & Databases**
 <p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ---
@@ -45,10 +46,10 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Abhedya** | AI-driven web security browser extension engine for hyper-local phishing detection. | `Python`, `FastAPI`, `ML` |
-| **Eureka** | Designed and developed the backend architecture and database structure for the Eureka website platform. | `Backend`, `Database Design` |
-| **Iksha** | Real-time smart attendance logging system built for academic case studies at VIT. | `Python`, `OpenCV`, `face_recognition` |
-| **Crop Image Analytics** | AI-based real-time crop image analytics for PMFBY crop insurance assessment (Smart VIT Hackathon). | `AI/ML`, `Python` |
+| **Abhedya** | AI-driven web security browser extension engine designed for hyper-local phishing detection. | `Python`, `FastAPI`, `ML` |
+| **Iksha** | Real-time smart face-recognition attendance logging system developed for academic case studies. | `Python`, `OpenCV`, `face_recognition` |
+| **Project Bermuda** | Graph-based modeling and traversal implementation of a battle royale map layout using logic programming. | `Prolog` |
+| **Eureka Club** | Backend architecture and relational database structure design for the Eureka club's website platform. | `Backend`, `Database Design` |
 
 ---
 
