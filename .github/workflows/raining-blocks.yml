@@ -2,7 +2,7 @@ name: Generate Raining Blocks Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,8 +15,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         
+      - name: Debug - List Files
+        run: ls -la
+        
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Upgraded to v5 to fix the Node warning!
         with:
           python-version: '3.10'
           
@@ -32,4 +35,5 @@ jobs:
           git config user.email github-actions@github.com
           git add raining-blocks.svg
           git commit -m "Update raining blocks animation" || echo "No changes to commit"
+          git pull --rebase origin main
           git push
