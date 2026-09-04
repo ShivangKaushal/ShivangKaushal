@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Shivang! 👋</h1>
   <h3>B.Tech Student | AI & ML Enthusiast | Developer</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Architecting+Cybersecurity+Engines;Building+AI+%26+ML+Solutions;Full-Stack+Web+Development;Solving+Complex+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Turning+Ideas+Into+Code;Passionate+Tech+Innovator;Exploring+Machine+Learning" alt="Typing SVG" />
 </div>
 
 ---
