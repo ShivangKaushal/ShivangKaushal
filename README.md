@@ -19,6 +19,17 @@
 
 ---
 
+### 🏢 Organization & Collaborations
+<p align="left">
+  <a href="https://github.com/Arcane-Workhandle">
+    <img src="https://img.shields.io/badge/Organization-AcE_Workhandle-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="AcE Workhandle" />
+  </a>
+</p>
+
+> Central hub for collaborative ventures, hackathon builds, and AI-driven systems built alongside [@Sambit25bce11252](https://github.com/Sambit25bce11252).
+
+---
+
 ### 💻 Tech Stack & Tools
 
 **Languages**  
